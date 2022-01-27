@@ -29,7 +29,7 @@ Deep Learning Specialization - Projects- Notes
 
 ## Course 1 Neural Networks and Deep Learning
 
-- In the first course of the Deep Learning Specialization, I study the foundational concept of neural networks and deep learning. 
+- [In the first course of the Deep Learning Specialization](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning), I study the foundational concept of neural networks and deep learning. 
 
 - By the end,  I am familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to my own applications.
 
