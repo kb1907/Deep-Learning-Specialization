@@ -31,7 +31,15 @@ Deep Learning Specialization - Projects- Notes
 
 - In the first course of the Deep Learning Specialization, I study the foundational concept of neural networks and deep learning. 
 
-By the end,  I am familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to my own applications.
+- By the end,  I am familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to my own applications.
+
+
+## Course 2 Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+
+- In the second course of the Deep Learning Specialization, course open the deep learning black box to understand the processes that drive performance and generate good results systematically. 
+
+- By the end, I learn the best practices to train and develop test sets and analyze bias/variance for building deep learning applications; be able to use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence; and implement a neural network in TensorFlow.
+
 
 
 
