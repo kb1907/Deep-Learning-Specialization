@@ -3,9 +3,10 @@ Deep Learning Specialization - Projects- Notes
 
 ----------------------------------------
 
-<img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="550" height="450">
+<img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="300" height="300">
 
 ### WHAT  I LEARNED
+------------------------
 
 - Build and train deep neural networks, identify key architecture parameters, implement vectorized neural networks and deep learning to applications
 
@@ -17,6 +18,7 @@ Deep Learning Specialization - Projects- Notes
 
 
 #### Reference
+-------------------------
 - In this folder, [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) projects and notes can be found.
 
 - **DeepLearning.AI** makes these slides available for educational purposes. 
