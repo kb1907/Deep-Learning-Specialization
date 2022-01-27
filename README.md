@@ -40,15 +40,27 @@ Deep Learning Specialization - Projects- Notes
 - [Deep Neural Network - Application](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week4/ProgrammingAssignment_Deep%20Neural%20Network%20-%20Application.ipynb)
 
 
-## Course 2 Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+## [Course 2 Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://github.com/kb1907/Deep-Learning-Specialization/tree/main/Improving%20Deep%20Neural%20Networks_Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization)
 
 - In the second course of the Deep Learning Specialization, course open the deep learning black box to understand the processes that drive performance and generate good results systematically. 
 
 - By the end, I learn the best practices to train and develop test sets and analyze bias/variance for building deep learning applications; be able to use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence; and implement a neural network in TensorFlow.
 
-## Course 3 Structuring Machine Learning Projects
+**Projects**
+--------------
+- [Initialization](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks_Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week1/ProgrammingAssignment_Initialization.ipynb)
+- [Regularization](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks_Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week1/ProgrammingAssignment_Regularization.ipynb)
+- [Gradient Checking](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks_Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week1/ProgrammingAssignment_Gradient_Checking.ipynb)
+- [Optimization Methods](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks_Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week2/ProgrammingAssignment_Optimization_methods.ipynb)
+- 
 
-- In the third course of the Deep Learning Specialization, I learn how to build a successful machine learning project and get to practice decision-making as a machine learning project leader. 
+
+
+
+
+## [Course 3 Structuring Machine Learning Projects](https://github.com/kb1907/Deep-Learning-Specialization/tree/main/Structuring%20Machine%20Learning%20Projects)
+
+- [In the third course of the Deep Learning Specialization](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning), I learn how to build a successful machine learning project and get to practice decision-making as a machine learning project leader. 
 
 - By the end, I am able to diagnose errors in a machine learning system; prioritize strategies for reducing errors; understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance; and apply end-to-end learning, transfer learning, and multi-task learning.
 
