@@ -40,6 +40,14 @@ Deep Learning Specialization - Projects- Notes
 
 - By the end, I learn the best practices to train and develop test sets and analyze bias/variance for building deep learning applications; be able to use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence; and implement a neural network in TensorFlow.
 
+## Course 3 Structuring Machine Learning Projects
+
+- In the third course of the Deep Learning Specialization, I learn how to build a successful machine learning project and get to practice decision-making as a machine learning project leader. 
+
+- By the end, I am able to diagnose errors in a machine learning system; prioritize strategies for reducing errors; understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance; and apply end-to-end learning, transfer learning, and multi-task learning.
+
+
+
 
 
 
