@@ -27,7 +27,7 @@ Deep Learning Specialization - Projects- Notes
 ### There are 5 Courses in this Specialization
 --------------------------------------------------
 
-## Course 1 Neural Networks and Deep Learning
+## [Course 1 Neural Networks and Deep Learning](https://github.com/kb1907/Deep-Learning-Specialization/tree/main/Convolutional%20Neural%20Networks)
 
 - [In the first course of the Deep Learning Specialization](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning), I study the foundational concept of neural networks and deep learning. 
 
