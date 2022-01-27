@@ -16,10 +16,11 @@ Deep Learning Specialization - Projects- Notes
 - Build and train RNNs, work with NLP and Word Embeddings, and use HuggingFace tokenizers and transformer models to perform NER and Question Answering
 
 
-
+#### Reference
 - In this folder, [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) projects and notes can be found.
-
 
 - **DeepLearning.AI** makes these slides available for educational purposes. 
 
 - All the best 🤘
+
+
