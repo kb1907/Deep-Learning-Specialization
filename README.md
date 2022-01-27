@@ -5,7 +5,7 @@ Deep Learning Specialization - Projects- Notes
 
 <img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="550" height="450">
 
-### WHAT  I LEARN
+### WHAT  I LEARNED
 
 - Build and train deep neural networks, identify key architecture parameters, implement vectorized neural networks and deep learning to applications
 
@@ -29,8 +29,9 @@ Deep Learning Specialization - Projects- Notes
 
 ## [Course 1 Neural Networks and Deep Learning](https://github.com/kb1907/Deep-Learning-Specialization/tree/main/Neural%20Networks%20and%20Deep%20Learning)
 
-- [In the first course of the Deep Learning Specialization](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning), I study the foundational concept of neural networks and deep learning. 
+- [In the first course of the Deep Learning Specialization](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning), 
 
+- I studied the foundational concept of neural networks and deep learning. 
 - By the end,  I am familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to my own applications.
 
 **Projects**
@@ -44,7 +45,7 @@ Deep Learning Specialization - Projects- Notes
 
 - [In the second course of the Deep Learning Specialization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning), course open the deep learning black box to understand the processes that drive performance and generate good results systematically. 
 
-- By the end, I learn the best practices to train and develop test sets and analyze bias/variance for building deep learning applications; be able to use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence; and implement a neural network in TensorFlow.
+- By the end, I learned the best practices to train and develop test sets and analyze bias/variance for building deep learning applications; be able to use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence; and implement a neural network in TensorFlow.
 
 **Projects**
 --------------
@@ -60,14 +61,14 @@ Deep Learning Specialization - Projects- Notes
 
 ## [Course 3 Structuring Machine Learning Projects](https://github.com/kb1907/Deep-Learning-Specialization/tree/main/Structuring%20Machine%20Learning%20Projects)
 
-- [In the third course of the Deep Learning Specialization](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning), I learn how to build a successful machine learning project and get to practice decision-making as a machine learning project leader. 
+- [In the third course of the Deep Learning Specialization](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning), I learned how to build a successful machine learning project and get to practice decision-making as a machine learning project leader. 
 
 - By the end, I am able to diagnose errors in a machine learning system; prioritize strategies for reducing errors; understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance; and apply end-to-end learning, transfer learning, and multi-task learning.
 
 
 ## [Course 4 Convolutional Neural Networks](https://github.com/kb1907/Deep-Learning-Specialization/tree/main/Convolutional%20Neural%20Networks)
 
-- [In the fourth course of the Deep Learning Specialization](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning), I understand how computer vision has evolved and become familiar with its exciting applications such as autonomous driving, face recognition, reading radiology images, and more.
+- [In the fourth course of the Deep Learning Specialization](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning), I understood how computer vision has evolved and become familiar with its exciting applications such as autonomous driving, face recognition, reading radiology images, and more.
 
 - By the end, I am able to build a convolutional neural network, including recent variations such as residual networks; apply convolutional networks to visual detection and recognition tasks; and use neural style transfer to generate art and apply these algorithms to a variety of image, video, and other 2D or 3D data.
 
@@ -85,7 +86,7 @@ Deep Learning Specialization - Projects- Notes
 
 ## [Course 5 Sequence Models](https://github.com/kb1907/Deep-Learning-Specialization/tree/main/Sequence%20Models)
 
-- [In the fifth course of the Deep Learning Specialization](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning), I become familiar with sequence models and their exciting applications such as speech recognition, music synthesis, chatbots, machine translation, natural language processing (NLP), and more. 
+- [In the fifth course of the Deep Learning Specialization](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning), I became familiar with sequence models and their exciting applications such as speech recognition, music synthesis, chatbots, machine translation, natural language processing (NLP), and more. 
 
 - By the end, I am able to build and train Recurrent Neural Networks (RNNs) and commonly-used variants such as GRUs and LSTMs; apply RNNs to Character-level Language Modeling; gain experience with natural language processing and Word Embeddings; and use HuggingFace tokenizers and transformer models to solve different NLP tasks such as NER and Question Answering.
 
