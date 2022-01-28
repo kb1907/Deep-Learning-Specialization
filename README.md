@@ -17,14 +17,6 @@ Deep Learning Specialization - Projects- Notes
 - Build and train RNNs, work with NLP and Word Embeddings, and use HuggingFace tokenizers and transformer models to perform NER and Question Answering
 
 
-### Reference
--------------------------
-- In this folder, [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) projects and notes can be found.
-
-- **DeepLearning.AI** makes these slides available for educational purposes. 
-
-- All the best 🤘
-
 
 ## There are 5 Courses in this Specialization
 --------------------------------------------------
@@ -109,8 +101,12 @@ Deep Learning Specialization - Projects- Notes
 - [Trigger Word Detection](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week3/Programming%20Assignment_Trigger_word_detection_v2a.ipynb)
 - [Transformers Architecture with TensorFlow](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week4/Programming%20Assignment_Transformer_Subclass_v1.ipynb)
 
-
 ------------------------------------------------
 
+### Disclaimer
+------------------------------------
+- In this folder, [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) projects and notes can be found.
+- **DeepLearning.AI** makes these slides available for educational purposes. 
+- Project solutions are just for educational purposes. I highly recommend trying and solving project/program assignments on your own.
 
 All the best 🤘
