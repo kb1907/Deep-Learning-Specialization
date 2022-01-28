@@ -42,6 +42,7 @@ Deep Learning Specialization - Projects- Notes
 - [Building your Deep Neural Network: Step by Step](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week4/ProgrammingAssignment_Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
 - [Deep Neural Network - Application](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week4/ProgrammingAssignment_Deep%20Neural%20Network%20-%20Application.ipynb)
 
+--------------------------------------------------------
 
 ## [Course 2 Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://github.com/kb1907/Deep-Learning-Specialization/tree/main/Improving%20Deep%20Neural%20Networks_Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization)
 
@@ -57,7 +58,7 @@ Deep Learning Specialization - Projects- Notes
 - [Optimization Methods](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks_Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week2/ProgrammingAssignment_Optimization_methods.ipynb)
 
 
-
+--------------------------------------------------
 
 
 
@@ -66,6 +67,8 @@ Deep Learning Specialization - Projects- Notes
 - [In the third course of the Deep Learning Specialization](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning), I learned how to build a successful machine learning project and get to practice decision-making as a machine learning project leader. 
 
 - By the end, I am able to diagnose errors in a machine learning system; prioritize strategies for reducing errors; understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance; and apply end-to-end learning, transfer learning, and multi-task learning.
+
+--------------------------------------------
 
 
 ## [Course 4 Convolutional Neural Networks](https://github.com/kb1907/Deep-Learning-Specialization/tree/main/Convolutional%20Neural%20Networks)
@@ -85,6 +88,8 @@ Deep Learning Specialization - Projects- Notes
 - [Face Recognition](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week4/Programming%20Assignment_Face_Recognition.ipynb)
 - [Art Generation with Neural Style Transfer](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week4/Programming%20Assignment_Art_Generation_with_Neural_Style_Transfer.ipynb)
 
+----------------------------------------------------
+
 
 ## [Course 5 Sequence Models](https://github.com/kb1907/Deep-Learning-Specialization/tree/main/Sequence%20Models)
 
@@ -103,3 +108,9 @@ Deep Learning Specialization - Projects- Notes
 - [Neural Machine Translation](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week3/Programming%20Assignment_Neural_machine_translation_with_attention_v4a.ipynb)
 - [Trigger Word Detection](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week3/Programming%20Assignment_Trigger_word_detection_v2a.ipynb)
 - [Transformers Architecture with TensorFlow](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Sequence%20Models/Week4/Programming%20Assignment_Transformer_Subclass_v1.ipynb)
+
+
+------------------------------------------------
+
+
+All the best 🤘
