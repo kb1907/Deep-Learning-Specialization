@@ -29,7 +29,7 @@ Deep Learning Specialization - Projects- Notes
 ## There are 5 Courses in this Specialization
 --------------------------------------------------
 
-## [Course 1 Neural Networks and Deep Learning](https://github.com/kb1907/Deep-Learning-Specialization/tree/main/Neural%20Networks%20and%20Deep%20Learning)
+## [Course 1 - Neural Networks and Deep Learning](https://github.com/kb1907/Deep-Learning-Specialization/tree/main/Neural%20Networks%20and%20Deep%20Learning)
 
 - [In the first course of the Deep Learning Specialization](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning), 
 
@@ -44,7 +44,7 @@ Deep Learning Specialization - Projects- Notes
 
 --------------------------------------------------------
 
-## [Course 2 Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://github.com/kb1907/Deep-Learning-Specialization/tree/main/Improving%20Deep%20Neural%20Networks_Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization)
+## [Course 2 - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://github.com/kb1907/Deep-Learning-Specialization/tree/main/Improving%20Deep%20Neural%20Networks_Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization)
 
 - [In the second course of the Deep Learning Specialization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning), course open the deep learning black box to understand the processes that drive performance and generate good results systematically. 
 
@@ -62,7 +62,7 @@ Deep Learning Specialization - Projects- Notes
 
 
 
-## [Course 3 Structuring Machine Learning Projects](https://github.com/kb1907/Deep-Learning-Specialization/tree/main/Structuring%20Machine%20Learning%20Projects)
+## [Course 3 - Structuring Machine Learning Projects](https://github.com/kb1907/Deep-Learning-Specialization/tree/main/Structuring%20Machine%20Learning%20Projects)
 
 - [In the third course of the Deep Learning Specialization](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning), I learned how to build a successful machine learning project and get to practice decision-making as a machine learning project leader. 
 
@@ -71,7 +71,7 @@ Deep Learning Specialization - Projects- Notes
 --------------------------------------------
 
 
-## [Course 4 Convolutional Neural Networks](https://github.com/kb1907/Deep-Learning-Specialization/tree/main/Convolutional%20Neural%20Networks)
+## [Course 4 - Convolutional Neural Networks](https://github.com/kb1907/Deep-Learning-Specialization/tree/main/Convolutional%20Neural%20Networks)
 
 - [In the fourth course of the Deep Learning Specialization](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning), I understood how computer vision has evolved and become familiar with its exciting applications such as autonomous driving, face recognition, reading radiology images, and more.
 
@@ -91,7 +91,7 @@ Deep Learning Specialization - Projects- Notes
 ----------------------------------------------------
 
 
-## [Course 5 Sequence Models](https://github.com/kb1907/Deep-Learning-Specialization/tree/main/Sequence%20Models)
+## [Course 5 - Sequence Models](https://github.com/kb1907/Deep-Learning-Specialization/tree/main/Sequence%20Models)
 
 - [In the fifth course of the Deep Learning Specialization](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning), I became familiar with sequence models and their exciting applications such as speech recognition, music synthesis, chatbots, machine translation, natural language processing (NLP), and more. 
 
