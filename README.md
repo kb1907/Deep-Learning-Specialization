@@ -1,5 +1,4 @@
 # Deep Learning Specialization
-Deep Learning Specialization - Projects- Notes
 
 - In this folder, [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) projects and notes can be found.
 ----------------------------------------
