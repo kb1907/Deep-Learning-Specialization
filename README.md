@@ -1,6 +1,7 @@
 # Deep Learning Specialization
 Deep Learning Specialization - Projects- Notes
 
+- In this folder, [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) projects and notes can be found.
 ----------------------------------------
 
 <img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="300" height="300">
@@ -105,7 +106,6 @@ Deep Learning Specialization - Projects- Notes
 
 ### Disclaimer
 ------------------------------------
-- In this folder, [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) projects and notes can be found.
 - **DeepLearning.AI** makes these slides available for educational purposes. 
 - Project solutions are just for educational purposes. I highly recommend trying and solving project/program assignments on your own.
 
