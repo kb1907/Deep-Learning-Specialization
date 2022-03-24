@@ -26,6 +26,7 @@
 - I studied the foundational concept of neural networks and deep learning. 
 - By the end,  I am familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to my own applications.
 
+
 **Projects**
 --------------
 - [Planar Data Classification with One Hidden Layer](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week3/ProgrammingAssignment_Planar_data_classification_with_one_hidden_layer.ipynb)
