@@ -6,6 +6,7 @@
 <img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="300" height="300">
 
 
+
 ## WHAT  I LEARNED
 ------------------------
 
@@ -83,11 +84,13 @@
 ----------------------------------------------------
 
 
+
 ## [Course 5 - Sequence Models](https://github.com/kb1907/Deep-Learning-Specialization/tree/main/Sequence%20Models)
 
 - [In the fifth course of the Deep Learning Specialization](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning), I became familiar with sequence models and their exciting applications such as speech recognition, music synthesis, chatbots, machine translation, natural language processing (NLP), and more. 
 
 - By the end, I am able to build and train Recurrent Neural Networks (RNNs) and commonly-used variants such as GRUs and LSTMs; apply RNNs to Character-level Language Modeling; gain experience with natural language processing and Word Embeddings; and use HuggingFace tokenizers and transformer models to solve different NLP tasks such as NER and Question Answering.
+
 
 **Projects**
 --------------
