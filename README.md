@@ -3,7 +3,6 @@
 - In this folder, [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) projects and notes can be found.
 ----------------------------------------
 
-
 <img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="300" height="300">
 
 ## WHAT  I LEARNED
@@ -27,13 +26,11 @@
 - I studied the foundational concept of neural networks and deep learning. 
 - By the end,  I am familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to my own applications.
 
-
 **Projects**
 --------------
 - [Planar Data Classification with One Hidden Layer](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week3/ProgrammingAssignment_Planar_data_classification_with_one_hidden_layer.ipynb)
 - [Building your Deep Neural Network: Step by Step](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week4/ProgrammingAssignment_Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
 - [Deep Neural Network - Application](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week4/ProgrammingAssignment_Deep%20Neural%20Network%20-%20Application.ipynb)
-
 --------------------------------------------------------
 
 ## [Course 2 - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://github.com/kb1907/Deep-Learning-Specialization/tree/main/Improving%20Deep%20Neural%20Networks_Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization)
