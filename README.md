@@ -15,7 +15,6 @@
 
 - Build and train RNNs, work with NLP and Word Embeddings, and use HuggingFace tokenizers and transformer models to perform NER and Question Answering
 
-
 ## There are 5 Courses in this Specialization
 --------------------------------------------------
 
