@@ -1,6 +1,7 @@
 # Deep Learning Specialization
 
 - In this folder, [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) projects and notes can be found.
+- 
 ----------------------------------------
 <img src="https://github.com/kb1907/Deep-Learning-Specialization/assets/51021282/a998ad66-97cf-45b0-9dfc-687459635760" width="300" height="300">
 ## WHAT  I LEARNED
@@ -11,7 +12,7 @@
 
 - Build a CNN and apply it to detection and recognition tasks, use neural style transfer to generate art, and apply algorithms to image and video data
 
-- Build and train RNNs, work with NLP and Word Embeddings, and use HuggingFace tokenizers and transformer models to perform NER and Question Answering
+- Build and train RNNs, work with NLP and Word Embeddings, and use HuggingFace tokenizers and transformer models to perform NER and question-answering
 
 ## There are 5 Courses in this Specialization
 --------------------------------------------------
