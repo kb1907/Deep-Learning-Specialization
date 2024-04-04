@@ -3,6 +3,7 @@
 - In this folder, [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) projects and notes can be found.
 ----------------------------------------
 <img src="https://github.com/kb1907/Deep-Learning-Specialization/assets/51021282/a998ad66-97cf-45b0-9dfc-687459635760" width="300" height="300">
+
 ## WHAT  I LEARNED
 ------------------------
 - Build and train deep neural networks, identify key architecture parameters, implement vectorized neural networks and deep learning to applications
