@@ -35,7 +35,7 @@
 
 ## [Course 2 - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://github.com/kb1907/Deep-Learning-Specialization/tree/main/Improving%20Deep%20Neural%20Networks_Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization)
 
-- [In the second course of the Deep Learning Specialization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning), course open the deep learning black box to understand the processes that drive performance and generate good results systematically. 
+- [In the second course of the Deep Learning Specialization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning), the course opens the deep learning black box to understand the processes that drive performance and generate good results systematically. 
 
 - By the end, I learned the best practices to train and develop test sets and analyze bias/variance for building deep learning applications; be able to use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence; and implement a neural network in TensorFlow.
 
