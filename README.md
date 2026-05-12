@@ -63,7 +63,7 @@
 
 ## [Course 4 - Convolutional Neural Networks](https://github.com/kb1907/Deep-Learning-Specialization/tree/main/Convolutional%20Neural%20Networks)
 
-- [In the fourth course of the Deep Learning Specialization](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning), I understood how computer vision has evolved and become familiar with its exciting applications such as autonomous driving, face recognition, reading radiology images, and more.
+- [In the fourth course of the Deep Learning Specialization](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning), I understood how computer vision has evolved and became familiar with its exciting applications, such as autonomous driving, face recognition, reading radiology images, and more.
 
 - By the end, I am able to build a convolutional neural network, including recent variations such as residual networks; apply convolutional networks to visual detection and recognition tasks; and use neural style transfer to generate art and apply these algorithms to a variety of image, video, and other 2D or 3D data.
 
