@@ -45,6 +45,7 @@
 - [Initialization](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks_Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week1/ProgrammingAssignment_Initialization.ipynb)
 - [Regularization](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks_Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week1/ProgrammingAssignment_Regularization.ipynb)
 - [Gradient Checking](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks_Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week1/ProgrammingAssignment_Gradient_Checking.ipynb)
+  
 - [Optimization Methods](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks_Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week2/ProgrammingAssignment_Optimization_methods.ipynb)
 
 
