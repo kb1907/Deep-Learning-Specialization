@@ -57,7 +57,7 @@
 
 - [In the third course of the Deep Learning Specialization](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning), I learned how to build a successful machine learning project and get to practice decision-making as a machine learning project leader. 
 
-- By the end, I am able to diagnose errors in a machine learning system; prioritize strategies for reducing errors; understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance; and apply end-to-end learning, transfer learning, and multi-task learning.
+- By the end, I can diagnose errors in a machine learning system; prioritize strategies for reducing errors; understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance; and apply end-to-end learning, transfer learning, and multi-task learning.
 
 --------------------------------------------
 
