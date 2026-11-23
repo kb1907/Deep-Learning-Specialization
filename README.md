@@ -48,7 +48,6 @@
   
 - [Optimization Methods](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks_Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week2/ProgrammingAssignment_Optimization_methods.ipynb)
 
-
 --------------------------------------------------
 
 
